@@ -1,0 +1,292 @@
+{
+    "items" : [
+        {
+            "id" : 0,
+            "category" : "men's clothing",
+            "name" : "Men's Formal shirt and pant",
+            "ratings" : "4.0",
+            "price" : "1870",
+            "image" : "Images/Men/Image1.jpg"
+        },
+        {
+            "id" : 5,
+            "category" : "women's clothing",
+            "name" : "Women's Georgette Lehenga Choli In Multicolour Colour",
+            "ratings" : "4.0",
+            "price" : "2949",
+            "image" : "Images/Women/Image1.jpg"
+        },
+        {
+            "id" : 10,
+            "category" : "electronics",
+            "name" : "Sony Bravia 139 cm (55 inches) 4K Ultra HD Smart LED",
+            "ratings" : "5.0",
+            "price" : "65999",
+            "image" : "Images/Electronics/Image1.jpg"
+        },
+        {
+            "id" : 15,
+            "category" : "footwear",
+            "name" : "LOUIS STITCH Men's Italian Braided Oxford Shoes ",
+            "ratings" : "4.0",
+            "price" : "3499",
+            "image" : "Images/Footwear/Image1.jpg"
+        },
+        {
+            "id" : 20,
+            "category" : "jewellery",
+            "name" : "Vintage Couple Promise Rings",
+            "ratings" : "4.5",
+            "price" : "4499",
+            "image" : "Images/Jewellery/Image3.jpg"
+        },
+        {
+            "id" : 25,
+            "category" : "cosmetics",
+            "name" : "Vitamin C + E Super Bright Sunscreen SPF 50 PA++++",
+            "ratings" : "4.0",
+            "price" : "544",
+            "image" : "Images/Cosmetics/Image1.jpg"
+        },
+        {
+            "id" : 30,
+            "category" : "kid's wear",
+            "name" : "Baby Girls Knee Length Lycra Dress",
+            "ratings" : "4.0",
+            "price" : "899",
+            "image" : "Images/Kidwear/Image1.jpg"
+        },
+        {
+            "id" : 1,
+            "category" : "men's clothing",
+            "name" : "Mens Polo Neck Half Sleeve Soild Casual Tshirt",
+            "ratings" : "3.5",
+            "price" : "399",
+            "image" : "Images/Men/Image2.jpg"
+        },
+        {
+            "id" : 6,
+            "category" : "women's clothing",
+            "name" : "Women's Mini Casual Dress",
+            "ratings" : "4.0",
+            "price" : "799",
+            "image" : "Images/Women/Image2.jpg"
+        },
+        {
+            "id" : 11,
+            "category" : "electronics",
+            "name" : "LG 322 L 3 Star Smart Inverter Double Door Refrigerator",
+            "ratings" : "4.5",
+            "price" : "39999",
+            "image" : "Images/Electronics/Image2.png"
+        },
+        {
+            "id" : 16,
+            "category" : "footwear",
+            "name" : "Women Vienna Heels",
+            "ratings" : "3.5",
+            "price" : "1135",
+            "image" : "Images/Footwear/Image2.jpg"
+        },
+        {
+            "id" : 21,
+            "category" : "jewellery",
+            "name" : "18K Gold Plated Traditional Earrings for Women",
+            "ratings" : "4.0",
+            "price" : "499",
+            "image" : "Images/Jewellery/Image1.jpg"
+        },
+        {
+            "id" : 25,
+            "category" : "cosmetics",
+            "name" : "Vitamin C + E Super Bright Sunscreen SPF 50 PA++++",
+            "ratings" : "4.0",
+            "price" : "544",
+            "image" : "Images/Cosmetics/Image1.jpg"
+        },
+        {
+            "id" : 31,
+            "category" : "kid's wear",
+            "name" : "A-Line Princess Kids Dress Knee Length Birthday Frock",
+            "ratings" : "4.0",
+            "price" : "1299",
+            "image" : "Images/Kidwear/Image2.jpg"
+        },
+        {
+            "id" : 2,
+            "category" : "men's clothing",
+            "name" : "Ben Martin Men's Denim Slim Fit Strechable Jeans",
+            "ratings" : "3.0",
+            "price" : "649",
+            "image" : "Images/Men/Image3.jpg"
+        },
+        {
+            "id" : 7,
+            "category" : "women's clothing",
+            "name" : "Women's Jeans And Top",
+            "ratings" : "3.5",
+            "price" : "999",
+            "image" : "Images/Women/Image3.jpg"
+        },
+        {
+            "id" : 12,
+            "category" : "electronics",
+            "name" : "Apple iPhone 12 Pro (256GB) - Blue",
+            "ratings" : "4.5",
+            "price" : "58900",
+            "image" : "Images/Electronics/Image4.jpg"
+        },
+        {
+            "id" : 17,
+            "category" : "footwear",
+            "name" : "Women's Formal Shoes",
+            "ratings" : "4.0",
+            "price" : "999",
+            "image" : "Images/Footwear/Image3.jpg"
+        },
+        {
+            "id" : 22,
+            "category" : "jewellery",
+            "name" : "Beads & Floral Kundan Necklace Set For Women",
+            "ratings" : "4.0",
+            "price" : "699",
+            "image" : "Images/Jewellery/Image2.jpg"
+        },
+        {
+            "id" : 26,
+            "category" : "cosmetics",
+            "name" : "MAC Satin Lipstick - RETRO",
+            "ratings" : "5.0",
+            "price" : "2690",
+            "image" : "Images/Cosmetics/Image2.jpg"
+        },
+        {
+            "id" : 32,
+            "category" : "kid's wear",
+            "name" : "Half Sleeve Cotton Round Neck Romper",
+            "ratings" : "3.5",
+            "price" : "599",
+            "image" : "Images/Kidwear/Image3.jpg"
+        },
+        {
+            "id" : 3,
+            "category" : "men's clothing",
+            "name" : "Peter England Men Two Piece Suit",
+            "ratings" : "5.0",
+            "price" : "7999",
+            "image" : "Images/Men/Image4.jpg"
+        },
+        {
+            "id" : 8,
+            "category" : "women's clothing",
+            "name" : "Women's Adorable Kanjivaram Soft Silk Saree ",
+            "ratings" : "3.5",
+            "price" : "999",
+            "image" : "Images/Women/Image4.jpg"
+        },
+        {
+            "id" : 13,
+            "category" : "electronics",
+            "name" : "Whirlpool 3D Cool Elite Pro 1.5 Ton 5 Star Inverter Split AC",
+            "ratings" : "4.0",
+            "price" : "37450",
+            "image" : "Images/Electronics/Image3.jpg"
+        },
+        {
+            "id" : 18,
+            "category" : "footwear",
+            "name" : "boys Lb167-1 Sandal",
+            "ratings" : "3.0",
+            "price" : "399",
+            "image" : "Images/Footwear/Image4.jpg"
+        },
+        {
+            "id" : 23,
+            "category" : "jewellery",
+            "name" : "Pure Silver Chandi Oxidized Hollow Tribal Bracelet",
+            "ratings" : "3.0",
+            "price" : "899",
+            "image" : "Images/Jewellery/Image5.jpg"
+        },
+        {
+            "id" : 27,
+            "category" : "cosmetics",
+            "name" : "POND'S Super Light Gel, Oil-free Moisturizer, 200ml",
+            "ratings" : "4.5",
+            "price" : "346",
+            "image" : "Images/Cosmetics/Image3.jpg"
+        },
+        {
+            "id" : 33,
+            "category" : "kid's wear",
+            "name" : "Ethnic Wear Kurta Dhoti Set for Boys",
+            "ratings" : "5.0",
+            "price" : "1899",
+            "image" : "Images/Kidwear/Image5.jpg"
+        },
+        {
+            "id" : 4,
+            "category" : "men's clothing",
+            "name" : "Men's Aqua Cotton Kurta and Pyjama Set",
+            "ratings" : "4.5",
+            "price" : "1352",
+            "image" : "Images/Men/Image5.jpg"
+        },
+        {
+            "id" : 9,
+            "category" : "women's clothing",
+            "name" : "Women's Embroidered Kurta and Sharara with Dupatta Set",
+            "ratings" : "4.5",
+            "price" : "1599",
+            "image" : "Images/Women/Image5.jpg"
+        },
+        {
+            "id" : 14,
+            "category" : "electronics",
+            "name" : "Dell 15 Laptop, 13th Gen Intel Core i5",
+            "ratings" : "3.5",
+            "price" : "57880",
+            "image" : "Images/Electronics/Image5.jpg"
+        },
+        {
+            "id" : 19,
+            "category" : "footwear",
+            "name" : "Disney Frozen Shoes for Girls ",
+            "ratings" : "4.0",
+            "price" : "599",
+            "image" : "Images/Footwear/Image5.jpg"
+        },
+        {
+            "id" : 24,
+            "category" : "jewellery",
+            "name" : "Fashions Brass With Ruby Antique Bangles For Women",
+            "ratings" : "3.5",
+            "price" : "799",
+            "image" : "Images/Jewellery/Image4.jpg"
+        },
+        {
+            "id" : 28,
+            "category" : "cosmetics",
+            "name" : "Gucci Flora Gorgeous Gardenia Spray for Women",
+            "ratings" : "5.0",
+            "price" : "12899",
+            "image" : "Images/Cosmetics/Image5.png"
+        },
+        {
+            "id" : 29,
+            "category" : "cosmetics",
+            "name" : "THE ORDINARY Niacinamide 10% + Zinc 1%, 30 ml",
+            "ratings" : "5.0",
+            "price" : "899",
+            "image" : "Images/Cosmetics/Image4.jpg"
+        },
+        {
+            "id" : 34,
+            "category" : "kid's wear",
+            "name" : "Full Sleeves Shirt with Matching Pant",
+            "ratings" : "4.0",
+            "price" : "899",
+            "image" : "Images/Kidwear/Image4.jpg"
+        }
+    ]
+}
